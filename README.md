@@ -1,13 +1,6 @@
 # hello-world
 My first repository
 
-I'm new to GitHub and programming/development. I'm working towards a BS in IT
-and hope to start a career doing coding and development of some kind. Here are
-some of the languages I've learned so far:
-HTML
-CSS
-C
-C++
-Python
+I'm an entry-level professional programmer with 1 year of experience working mainly with Java, Spring, and Maven but have exposure to other languages and frameworks as well.
 
 I look forward to contributing as my career progresses!
